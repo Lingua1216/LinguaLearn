@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Question3" alignment="0" min="-2" pref="612" max="-2" attributes="0"/>
+                  <Component id="Radio3A" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="Radio3B" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="Radio3D" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="Radio3C" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                      <Component id="Question5" min="-2" pref="417" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="Radio2B" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="Radio2A" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Radio2C" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Radio2D" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Question2" min="-2" pref="578" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Radio5B" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Radio5A" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Radio5C" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Radio5D" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="161" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                                          <Component id="Back" min="-2" pref="127" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="Submit" min="-2" pref="127" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="140" max="-2" attributes="0"/>
+                                          <Component id="Question7" min="-2" pref="381" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Radio1A" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio1B" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio1C" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Question6" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio1D" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="429" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Question1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="220" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="Question4" min="-2" pref="612" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="136" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Radio4B" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio4A" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio4C" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Radio4D" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="Question1" min="-2" pref="28" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Question6" min="-2" pref="21" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Radio1A" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio1B" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Radio1C" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio1D" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                      <Component id="Question4" min="-2" pref="40" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio4A" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio4B" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Radio4C" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Radio4D" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Question2" min="-2" pref="40" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="Question5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Question7" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="Radio2A" min="-2" pref="21" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio2B" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio2C" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                      <Component id="Radio2D" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Question3" min="-2" pref="40" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Radio5A" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Radio5B" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Radio5C" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Radio5D" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+              <Component id="Radio3A" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Radio3B" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Radio3C" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="Radio3D" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Submit" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+                  <Component id="Back" alignment="3" min="-2" pref="45" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JRadioButton" name="Radio5B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) M&#xed;ngti&#x101;n (&#x660e;&#x5929;) &#x2013; Tomorrow  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio5C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) Zu&#xf3;ti&#x101;n (&#x6628;&#x5929;) &#x2013; Yesterday  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio1B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Ch&#x12b; w&#x1d2; p&#xed;nggu&#x1d2;. (&#x5403;&#x6211;&#x82f9;&#x679c;) &#x2013; Eat me an apple "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Radio1BActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio5D">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) H&#xf2;uti&#x101;n (&#x540e;&#x5929;) &#x2013; The day after tomorrow  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio1C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) P&#xed;nggu&#x1d2; ch&#x12b; w&#x1d2;. (&#x82f9;&#x679c;&#x5403;&#x6211;) &#x2013; Apple eats me  "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Radio1CActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Submit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SUBMIT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SubmitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio1D">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) W&#x1d2; p&#xed;nggu&#x1d2; ch&#x12b;. (&#x6211;&#x82f9;&#x679c;&#x5403;) &#x2013; I apple eat  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Back">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BACK"/>
+        <Property name="borderPainted" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2. What does &quot;&#x4ed6;&#x662f;&#x5b66;&#x751f;&quot; mean?   *&quot;&#x4ed6;&#x662f;&#x5b66;&#x751f;&#x3002;&quot; &#x7684;&#x610f;&#x601d;&#x662f;&#x4ec0;&#x4e48;&#xff1f;*   *&quot;T&#x101; sh&#xec; xu&#xe9;sh&#x113;ng.&quot; de y&#xec;si sh&#xec; sh&#xe9;nme?* "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio2A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) T&#x101; sh&#xec; l&#x1ce;osh&#x12b;. (&#x4ed6;&#x662f;&#x8001;&#x5e08;) &#x2013; He is a teacher "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio2B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) T&#x101; sh&#xec; xu&#xe9;sh&#x113;ng. (&#x4ed6;&#x662f;&#x5b66;&#x751f;) &#x2013; He is a student  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio2C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) T&#x101; sh&#xec; p&#xe9;ngy&#x1d2;u. (&#x4ed6;&#x662f;&#x670b;&#x53cb;) &#x2013; He is a friend  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio2D">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) T&#x101; sh&#xec; y&#x12b;sh&#x113;ng. (&#x4ed6;&#x662f;&#x533b;&#x751f;) &#x2013; He is a doctor  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3. Which of the following is the correct question?   *&#x4f60;&#x89c9;&#x5f97;&#x54ea;&#x4e2a;&#x662f;&#x6b63;&#x786e;&#x7684;&#x95ee;&#x53e5;&#xff1f;*   *N&#x1d0; ju&#xe9;de n&#x1ce;ge sh&#xec; zh&#xe8;ngqu&#xe8; de w&#xe8;nj&#xf9;?*"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio3A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) N&#x1d0; sh&#xec; l&#x1ce;osh&#x12b; ma? (&#x4f60;&#x662f;&#x8001;&#x5e08;&#x5417;?) &#x2013; Are you a teacher? "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio3B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Sh&#xec; n&#x1d0; l&#x1ce;osh&#x12b; ma? (&#x662f;&#x4f60;&#x8001;&#x5e08;&#x5417;?) &#x2013; Are you teacher? "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio3C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) L&#x1ce;osh&#x12b; n&#x1d0; sh&#xec; ma? (&#x8001;&#x5e08;&#x4f60;&#x662f;&#x5417;?) &#x2013; Teacher, are you?"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Radio3CActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio3D">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) N&#x1d0; l&#x1ce;osh&#x12b; sh&#xec; ma? (&#x4f60;&#x8001;&#x5e08;&#x662f;&#x5417;?) &#x2013; You teacher are? "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4. What does &quot;&#x6211;&#x4e0d;&#x5403;&#x82f9;&#x679c;&quot; mean?   *&quot;&#x6211;&#x4e0d;&#x5403;&#x82f9;&#x679c;&#x3002;&quot; &#x662f;&#x4ec0;&#x4e48;&#x610f;&#x601d;&#xff1f;*   *&quot;W&#x1d2; b&#xf9; ch&#x12b; p&#xed;nggu&#x1d2;.&quot; sh&#xec; sh&#xe9;nme y&#xec;si?*"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio4A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) W&#x1d2; b&#xf9; ch&#x12b; p&#xed;nggu&#x1d2;. (&#x6211;&#x4e0d;&#x5403;&#x82f9;&#x679c;) &#x2013; I don&#x2019;t eat apples  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio4B">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) W&#x1d2; ch&#x12b; p&#xed;nggu&#x1d2;. (&#x6211;&#x5403;&#x82f9;&#x679c;) &#x2013; I eat apples  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio4C">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) W&#x1d2; x&#x1d0;hu&#x101;n p&#xed;nggu&#x1d2;. (&#x6211;&#x559c;&#x6b22;&#x82f9;&#x679c;) &#x2013; I like apples"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio4D">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) W&#x1d2; z&#xe0;i ch&#x12b; p&#xed;nggu&#x1d2;. (&#x6211;&#x5728;&#x5403;&#x82f9;&#x679c;) &#x2013; I am eating apples  "/>
+        <Property name="borderPainted" type="boolean" value="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5. What does &quot;&#x660e;&#x5929;&quot; mean in the sentence &quot;&#x660e;&#x5929;&#x6211;&#x53bb;&#x5b66;&#x6821;&quot;?   *&quot;&#x660e;&#x5929;&#x6211;&#x53bb;&#x5b66;&#x6821;&#x3002;&quot; &#x4e2d;&#x7684; &quot;&#x660e;&#x5929;&quot; &#x662f;&#x4ec0;&#x4e48;&#x610f;&#x601d;&#xff1f;*  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio5A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) J&#x12b;nti&#x101;n (&#x4eca;&#x5929;) &#x2013; Today"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1. Which of the following is the correct Chinese sentence?   *&#x4e0b;&#x9762;&#x54ea;&#x4e00;&#x53e5;&#x662f;&#x6b63;&#x786e;&#x7684;&#x4e2d;&#x6587;&#x53e5;&#x5b50;&#xff1f;*  "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Radio1A">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) W&#x1d2; ch&#x12b; p&#xed;nggu&#x1d2;. (&#x6211;&#x5403;&#x82f9;&#x679c;) &#x2013; I eat an apple  "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Radio1AActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="*Xi&#xe0;mi&#xe0;n n&#x1ce; y&#x12b;j&#xf9; sh&#xec; zh&#xe8;ngqu&#xe8; de zh&#x14d;ngw&#xe9;n j&#xf9;zi?*"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Question7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="  *&quot;M&#xed;ngti&#x101;n w&#x1d2; q&#xf9; xu&#xe9;xi&#xe0;o.&quot; zh&#x14d;ng de &quot;m&#xed;ngti&#x101;n&quot; sh&#xec; sh&#xe9;nme y&#xec;si?*"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

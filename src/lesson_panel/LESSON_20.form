@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="jScrollPane7" min="-2" pref="620" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jScrollPane6" min="-2" pref="634" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="951" max="-2" attributes="0"/>
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="598" max="-2" attributes="0"/>
+                      <Component id="takequiz" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="365" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="27" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jScrollPane6" pref="659" max="32767" attributes="0"/>
+                  <Component id="jScrollPane7" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace pref="725" max="32767" attributes="0"/>
+              <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="800" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="546" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="386" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea6">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="16" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;&#xa;11.&#x4eca;&#x65e5;&#x306f;&#x6691;&#x3044;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Ky&#x14d; wa atsui desu.) = It is hot today.&#xa;12.&#x5f7c;&#x5973;&#x306e;&#x540d;&#x524d;&#x306f;&#x82b1;&#x5b50;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Kanojo no namae wa Hanako desu.) = Her name is Hanako.&#xa;13.&#x305d;&#x306e;&#x8eca;&#x306f;&#x8d64;&#x3044;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Sono kuruma wa akai desu.) = That car is red.&#xa;14.&#x3053;&#x306e;&#x30da;&#x30f3;&#x3092;&#x4f7f;&#x3044;&#x307e;&#x3059;&#x304b;&#xff1f;&#xa;&#x9;(Kono pen o tsukaimasu ka?) = Will you use this pen?&#xa;15.&#x56f3;&#x66f8;&#x9928;&#x3067;&#x672c;&#x3092;&#x8aad;&#x307f;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Toshokan de hon o yomimasu.) = I read books in the library.&#xa;16.&#x99c5;&#x306b;&#x53cb;&#x9054;&#x304c;&#x3044;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Eki ni tomodachi ga imasu.) = My friend is at the station.&#xa;17.&#x305d;&#x306e;&#x4eba;&#x306f;&#x89aa;&#x5207;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Sono hito wa shinsetsu desu.) = That person is kind.&#xa;18.&#x6708;&#x66dc;&#x65e5;&#x306b;&#x5b66;&#x6821;&#x304c;&#x3042;&#x308a;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Getsuy&#x14d;b ni gakk&#x14d; ga arimasu.) = I have school on Monday.&#xa;19.&#x65e5;&#x672c;&#x8a9e;&#x3092;&#x52c9;&#x5f37;&#x3057;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Nihongo o benky&#x14d; shimasu.) = I study Japanese.&#xa;20.&#x660e;&#x65e5;&#x306f;&#x4f11;&#x307f;&#x3067;&#x3059;&#x304b;&#xff1f;&#xa;&#x9;(Ashita wa yasumi desu ka?) = Is tomorrow a day off?"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="takequiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Take Quiz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea7">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="16" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;&#xa;1.&#x79c1;&#x306f;&#x65e5;&#x672c;&#x4eba;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Watashi wa Nihonjin desu.) = I am Japanese.&#xa;2.&#x5f7c;&#x5973;&#x306f;&#x533b;&#x8005;&#x3067;&#x3059;&#x304b;&#xff1f;&#xa;&#x9;(Kanojo wa isha desu ka?) = Is she a doctor?&#xa;3.&#x732b;&#x304c;&#x597d;&#x304d;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Neko ga suki desu.) = I like cats.&#xa;4.&#x660e;&#x65e5;&#x3001;&#x5b66;&#x6821;&#x306b;&#x884c;&#x304d;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Ashita, gakk&#x14d; ni ikimasu.) = I will go to school tomorrow.&#xa;5.&#x3053;&#x308c;&#x306f;&#x672c;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Kore wa hon desu.) = This is a book.&#xa;6.&#x5144;&#x306f;&#x4f1a;&#x793e;&#x54e1;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Ani wa kaishain desu.) = My older brother is an office worker.&#xa;7.&#x5f7c;&#x306f;&#x30a2;&#x30e1;&#x30ea;&#x30ab;&#x4eba;&#x3067;&#x3059;&#x304b;&#xff1f;&#xa;&#x9;(Kare wa Amerikajin desu ka?) = Is he American?&#xa;8.&#x79c1;&#x306f;&#x6620;&#x753b;&#x304c;&#x597d;&#x304d;&#x3067;&#x3059;&#x3002;&#xa;&#x9;(Watashi wa  iga ga suki desu.) = I like movies.&#xa;9.&#x6bcd;&#x306f;&#x5bb6;&#x306b;&#x3044;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Haha wa ie ni imasu.) = My mother is at home.&#xa;10.&#x53cb;&#x9054;&#x3068;&#x516c;&#x5712;&#x3067;&#x904a;&#x3073;&#x307e;&#x3059;&#x3002;&#xa;&#x9;(Tomodachi to k&#x14d;en de asobimasu.) = I play at the park with my friends."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Serif" size="18" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="JAPANESE GRAMMARS"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

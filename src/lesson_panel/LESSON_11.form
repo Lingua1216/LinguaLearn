@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1862, 712]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" pref="1935" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" pref="961" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1544, 931]"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="takequiz">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Take Quiz"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1080" y="600" width="150" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1940" height="960"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea2">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="What is Mandarin? &#xa;&#xa;Mandarin (Mandarin Chinese, or standard Chinese as we know it with the familiar four tones) is the only official language of China at a national level and one of the working languages of the United Nations. &#xa;It was first documented in the Yuan Dynasty in 14th century China and was later standardized and advocated as the national language after the founding of the People&#x2019;s Republic of China in 1949. &#xa;Mandarin is the native language of 920 million people living in northern and southwestern China, who constitute 65.7% of China&#x2019;s population. &#xa;People from other areas of China generally speak another variety of Chinese (e.g. Cantonese, Hokkien, Hakka, Shanghainese) as their first language, yet most of them can speak Mandarin fluently as a second language after learning it in school.&#xa;Outside China (PRC), Mandarin is spoken as the official language of Taiwan, as well as one of the four official languages of Singapore.&#xa;Mandarin&#x2019;s vocabulary, pronunciation, and tone rules vary by major region (from Heilongjiang Province in the northeast all the way down to Yunnan in the southwest), but the language is essentially the same.&#xa;In Beijing, the form is called &#x5317;&#x4eac;&#x8bdd; (B&#x11b;ij&#x12b;ng hu&#xe0;), meaning Beijing language, or Beijing dialect. In Sichuan, where the language is similar but with apparent pronunciation and tone differences, the dialect is called &#x56db;&#x5ddd;&#x8bdd; (S&#xec;chu&#x101;n hu&#xe0;) &#x2013; Sichuan language.&#xa;&#xa;&#xa;IN CHINESE MANDARIN&#xa;&#xa;Mandarin (Mandarin Chinese, hu&#xf2;zh&#x11b; w&#x1d2;men sh&#xf3;ux&#x12b; de bi&#x101;ozh&#x1d4;n H&#xe0;ny&#x1d4;, d&#xe0;i y&#x1d2;u s&#xec; g&#xe8; sh&#x113;ngdi&#xe0;o) sh&#xec; Zh&#x14d;nggu&#xf3; gu&#xf3;n&#xe8;i w&#xe9;i y&#x12b; de gu&#xf3;ji&#x101; j&#xed; g&#x14d;ngy&#xf2;ng y&#x1d4;y&#xe1;n, y&#x11b; sh&#xec; Li&#xe1;nh&#xe9;gu&#xf3; de g&#x14d;ngzu&#xf2; y&#x1d4;y&#xe1;n zh&#x12b; y&#x12b;. &#xa;T&#x101; zu&#xec;z&#x1ce;o z&#xe0;i Yu&#xe1;nch&#xe1;o (14 sh&#xec;j&#xec; de Zh&#x14d;nggu&#xf3;) b&#xe8;i j&#xec;z&#x1ce;i, z&#xe0;i Zh&#x14d;nghu&#xe1; R&#xe9;nm&#xed;n G&#xf2;ngh&#xe9;gu&#xf3; ch&#xe9;ngl&#xec; h&#xf2;u de 1949 ni&#xe1;n b&#xe8;i bi&#x101;ozh&#x1d4;nhu&#xe0; b&#xec;ng tu&#x12b;gu&#x1ce;ng w&#xe9;i gu&#xf3;y&#x1d4;.&#xa;Mandarin sh&#xec; j&#x16b;zh&#xf9; z&#xe0;i Zh&#x14d;nggu&#xf3; b&#x11b;if&#x101;ng h&#xe9; x&#x12b;n&#xe1;n d&#xec;q&#x16b; de 9.2 y&#xec; r&#xe9;n de m&#x1d4;y&#x1d4;, zh&#xe0;n Zh&#x14d;nggu&#xf3; r&#xe9;nk&#x1d2;u de 65.7%. &#xa;Q&#xed;t&#x101; d&#xec;q&#x16b; de Zh&#x14d;nggu&#xf3;r&#xe9;n t&#x14d;ngch&#xe1;ng y&#x1d0; q&#xed;t&#x101; de Zh&#x14d;ngw&#xe9;n f&#x101;ngy&#xe1;n (r&#xfa; Gu&#x1ce;ngd&#x14d;nghu&#xe0;, M&#x1d0;nn&#xe1;nhu&#xe0;, K&#xe8;ji&#x101;hu&#xe0;, Sh&#xe0;ngh&#x1ce;ihu&#xe0;) w&#xe9;i m&#x1d4;y&#x1d4;, d&#xe0;nsh&#xec; d&#xe0;du&#x14d; sh&#xf9; r&#xe9;n t&#x14d;nggu&#xf2; xu&#xe9;xi&#xe0;o xu&#xe9;x&#xed;, n&#xe9;ng li&#xfa;l&#xec; d&#xec; ji&#x1ce;ng H&#xe0;ny&#x1d4; zu&#xf2;w&#xe9;i &#xe8;ry&#x1d4;.&#xa;Z&#xe0;i Zh&#x14d;nggu&#xf3; (Zh&#x14d;nghu&#xe1; R&#xe9;nm&#xed;n G&#xf2;ngh&#xe9;gu&#xf3;) y&#x1d0;w&#xe0;i, Mandarin sh&#xec; T&#xe1;iw&#x101;n de gu&#x101;nf&#x101;ng y&#x1d4;y&#xe1;n, y&#x11b;sh&#xec; X&#x12b;nji&#x101;p&#x14d; de s&#xec; zh&#x1d2;ng gu&#x101;nf&#x101;ng y&#x1d4;y&#xe1;n zh&#x12b; y&#x12b;.&#xa;Mandarin de c&#xed;hu&#xec;, f&#x101;y&#x12b;n, h&#xe9; sh&#x113;ngdi&#xe0;o gu&#x12b;z&#xe9; hu&#xec; g&#x113;nj&#xf9; zh&#x1d4;y&#xe0;o d&#xec;q&#x16b; ch&#x16b;xi&#xe0;n bi&#xe0;nhu&#xe0; (c&#xf3;ng D&#x14d;ngb&#x11b;i de H&#x113;il&#xf3;ngji&#x101;ng sh&#x11b;ng d&#xe0;o x&#x12b;n&#xe1;n de Y&#xfa;nn&#xe1;n sh&#x11b;ng), d&#xe0;n q&#xed; y&#x1d4;y&#xe1;n j&#x12b;b&#x11b;n xi&#x101;ngt&#xf3;ng.&#xa;Z&#xe0;i B&#x11b;ij&#x12b;ng, zh&#xe8; zh&#x1d2;ng y&#x1d4;y&#xe1;n b&#xe8;i ji&#xe0;ozu&#xf2; &#x5317;&#x4eac;&#x8bdd; (B&#x11b;ij&#x12b;ng hu&#xe0;), y&#xec;si sh&#xec; B&#x11b;ij&#x12b;ng de y&#x1d4;y&#xe1;n, hu&#xf2; B&#x11b;ij&#x12b;ng f&#x101;ngy&#xe1;n. &#xa;Z&#xe0;i S&#xec;chu&#x101;n, zh&#xe8; zh&#x1d2;ng y&#x1d4;y&#xe1;n l&#xe8;is&#xec; d&#xe0;n f&#x101;y&#x12b;n h&#xe9; sh&#x113;ngdi&#xe0;o y&#x1d2;u xi&#x1ce;nr&#xe1;n ch&#x101;y&#xec;, zh&#xe8; b&#xe8;i ch&#x113;ngzu&#xf2; &#x56db;&#x5ddd;&#x8bdd; (S&#xec;chu&#x101;n hu&#xe0;) &#x2013; S&#xec;chu&#x101;n de y&#x1d4;y&#xe1;n.&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="com.raven.swing.noticeboard.scroll_panel" name="scroll_panel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1350" height="600"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="814" max="-2" attributes="0"/>
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jScrollPane7" min="-2" pref="692" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                      <Component id="jScrollPane6" min="-2" pref="791" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="644" max="-2" attributes="0"/>
+                      <Component id="takequiz" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="249" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="27" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jScrollPane6" min="-2" pref="648" max="-2" attributes="0"/>
+                  <Component id="jScrollPane7" min="-2" pref="648" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace pref="219" max="32767" attributes="0"/>
+              <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="800" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="546" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="386" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea6">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="18" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="6. Negation with &#x4e0d; (b&#xf9;) and &#x6ca1; (m&#xe9;i)&#xa;Use &#x4e0d; for negating general actions and &#x6ca1; for past actions.&#xa;&#xa;Example:&#xa;&#x6211;&#x4e0d;&#x5403;&#x8089; (W&#x1d2; b&#xf9; ch&#x12b; r&#xf2;u) = &quot;I don&#x2019;t eat meat.&quot;&#xa;&#x6211;&#x6ca1;&#x5403;&#x996d; (W&#x1d2; m&#xe9;i ch&#x12b; f&#xe0;n) = &quot;I didn&#x2019;t eat.&quot;&#xa;7. Adjectives as Verbs&#xa;Adjectives can act like verbs to describe a subject.&#xa;&#xa;Example: &#x4ed6;&#x5f88;&#x9ad8; (T&#x101; h&#x11b;n g&#x101;o) = &quot;He is tall.&quot;&#xa;8. Particles Indicating Completion (&#x4e86; / le)&#xa;The particle &#x4e86; is used to indicate a completed action.&#xa;&#xa;Example: &#x6211;&#x5403;&#x4e86; (W&#x1d2; ch&#x12b; le) = &quot;I ate.&quot;&#xa;9. Using &#x7684; (de) for Possession and Description&#xa;Use &#x7684; to indicate possession or link an adjective to a noun.&#xa;&#xa;Example:&#xa;&#x6211;&#x7684;&#x4e66; (W&#x1d2; de sh&#x16b;) = &quot;My book.&quot;&#xa;&#x6f02;&#x4eae;&#x7684;&#x82b1; (Pi&#xe0;oli&#xe0;ng de hu&#x101;) = &quot;Beautiful flowers.&quot;&#xa;10. Questions with Question Words&#xa;Use question words like &#x4ec0;&#x4e48; (sh&#xe9;nme, &quot;what&quot;) or &#x8c01; (sh&#xe9;i, &quot;who&quot;) for open-ended questions.&#xa;&#xa;Example:&#xa;&#x8fd9;&#x662f;&#x4ec0;&#x4e48;&#xff1f;(Zh&#xe8; sh&#xec; sh&#xe9;nme?) = &quot;What is this?&quot;&#xa;&#x4ed6;&#x662f;&#x8c01;&#xff1f;(T&#x101; sh&#xec; sh&#xe9;i?) = &quot;Who is he?&quot;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="takequiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Take Quiz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea7">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="18" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="1. Subject + Verb + Object (SVO)&#xa;The standard sentence structure is simple.&#xa;&#xa;Example: &#x6211;&#x559d;&#x6c34; (W&#x1d2; h&#x113; shu&#x1d0;) = &quot;I drink water.&quot;&#xa;2. No Verb Conjugations&#xa;Verbs do not change form for tense or subject. Time is indicated with words or context.&#xa;&#xa;Example:&#xa;&#x6211;&#x53bb; (W&#x1d2; q&#xf9;) = &quot;I go.&quot;&#xa;&#x6211;&#x6628;&#x5929;&#x53bb; (W&#x1d2; zu&#xf3;ti&#x101;n q&#xf9;) = &quot;I went yesterday.&quot;&#xa;3. Time Words Before Verbs&#xa;Time expressions typically appear before the verb.&#xa;&#xa;Example: &#x6211;&#x660e;&#x5929;&#x53bb;&#x5b66;&#x6821; (W&#x1d2; m&#xed;ngti&#x101;n q&#xf9; xu&#xe9;xi&#xe0;o) = &quot;I will go to school tomorrow.&quot;&#xa;4. Measure Words (&#x91cf;&#x8bcd; / Li&#xe0;ngc&#xed;)&#xa;Nouns require measure words when used with numbers or demonstratives.&#xa;&#xa;Example: &#x4e00;&#x53ea;&#x732b; (Y&#x12b; zh&#x12b; m&#x101;o) = &quot;One cat.&quot;&#xa;5. Questions with &#x5417; (ma)&#xa;To form yes/no questions, add &#x5417; at the end of a statement.&#xa;&#xa;Example: &#x4f60;&#x559c;&#x6b22;&#x4e2d;&#x56fd;&#x5417;&#xff1f;(N&#x1d0; x&#x1d0;hu&#x101;n Zh&#x14d;nggu&#xf3; ma?) = &quot;Do you like China?&quot;&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Serif" size="18" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CHINESE GRAMMARS"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

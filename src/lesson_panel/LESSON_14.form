@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="951" max="-2" attributes="0"/>
+                      <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jScrollPane6" max="32767" attributes="0"/>
+                          <Component id="jScrollPane14" max="32767" attributes="0"/>
+                          <Component id="jScrollPane8" pref="261" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane12" min="-2" pref="265" max="-2" attributes="0"/>
+                          <Component id="jScrollPane10" min="-2" pref="264" max="-2" attributes="0"/>
+                          <Component id="jScrollPane5" min="-2" pref="265" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jScrollPane13" pref="248" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane9" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jScrollPane7" pref="256" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane11" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
+                              <Component id="takequiz" min="-2" pref="150" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="365" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane6" alignment="0" min="-2" pref="191" max="-2" attributes="0"/>
+                          <Component id="jScrollPane5" alignment="0" min="-2" pref="193" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane12" min="-2" pref="211" max="-2" attributes="0"/>
+                          <Component id="jScrollPane8" min="-2" pref="211" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jScrollPane9" min="-2" pref="193" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="jScrollPane13" min="-2" pref="211" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jScrollPane7" min="-2" pref="193" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Component id="jScrollPane11" min="-2" pref="218" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="84" max="-2" attributes="0"/>
+                      <Component id="takequiz" min="-2" pref="60" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Component id="jScrollPane10" min="-2" pref="210" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Component id="jScrollPane14" min="-2" pref="210" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="117" max="-2" attributes="0"/>
+              <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="800" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="546" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="386" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea5">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="11&#x2013;20&#xa;11: &#x5341;&#x4e00; (sh&#xed; y&#x12b;) &#x2013; eleven&#xa;12: &#x5341;&#x4e8c; (sh&#xed; &#xe8;r) &#x2013; twelve&#xa;13: &#x5341;&#x4e09; (sh&#xed; s&#x101;n) &#x2013; thirteen&#xa;14: &#x5341;&#x56db; (sh&#xed; s&#xec;) &#x2013; fourteen&#xa;15: &#x5341;&#x4e94; (sh&#xed; w&#x1d4;) &#x2013; fifteen&#xa;16: &#x5341;&#x516d; (sh&#xed; li&#xf9;) &#x2013; sixteen&#xa;17: &#x5341;&#x4e03; (sh&#xed; q&#x12b;) &#x2013; seventeen&#xa;18: &#x5341;&#x516b; (sh&#xed; b&#x101;) &#x2013; eighteen&#xa;19: &#x5341;&#x4e5d; (sh&#xed; ji&#x1d4;) &#x2013; nineteen&#xa;20: &#x4e8c;&#x5341; (&#xe8;r sh&#xed;) &#x2013; twenty"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea6">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="1&#x2013;10&#xa;1: &#x4e00; (y&#x12b;) &#x2013; one&#xa;2: &#x4e8c; (&#xe8;r) &#x2013; two&#xa;3: &#x4e09; (s&#x101;n) &#x2013; three&#xa;4: &#x56db; (s&#xec;) &#x2013; four&#xa;5: &#x4e94; (w&#x1d4;) &#x2013; five&#xa;6: &#x516d; (li&#xf9;) &#x2013; six&#xa;7: &#x4e03; (q&#x12b;) &#x2013; seven&#xa;8: &#x516b; (b&#x101;) &#x2013; eight&#xa;9: &#x4e5d; (ji&#x1d4;) &#x2013; nine&#xa;10: &#x5341; (sh&#xed;) &#x2013; ten"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea7">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="31&#x2013;40&#xa;31: &#x4e09;&#x5341;&#x4e00; (s&#x101;n sh&#xed; y&#x12b;) &#x2013; thirty-one&#xa;32: &#x4e09;&#x5341;&#x4e8c; (s&#x101;n sh&#xed; &#xe8;r) &#x2013; thirty-two&#xa;33: &#x4e09;&#x5341;&#x4e09; (s&#x101;n sh&#xed; s&#x101;n) &#x2013; thirty-three&#xa;34: &#x4e09;&#x5341;&#x56db; (s&#x101;n sh&#xed; s&#xec;) &#x2013; thirty-four&#xa;35: &#x4e09;&#x5341;&#x4e94; (s&#x101;n sh&#xed; w&#x1d4;) &#x2013; thirty-five&#xa;36: &#x4e09;&#x5341;&#x516d; (s&#x101;n sh&#xed; li&#xf9;) &#x2013; thirty-six&#xa;37: &#x4e09;&#x5341;&#x4e03; (s&#x101;n sh&#xed; q&#x12b;) &#x2013; thirty-seven&#xa;38: &#x4e09;&#x5341;&#x516b; (s&#x101;n sh&#xed; b&#x101;) &#x2013; thirty-eight&#xa;39: &#x4e09;&#x5341;&#x4e5d; (s&#x101;n sh&#xed; ji&#x1d4;) &#x2013; thirty-nine&#xa;40: &#x56db;&#x5341; (s&#xec; sh&#xed;) &#x2013; forty&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane8">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea8">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;41&#x2013;50&#xa;41: &#x56db;&#x5341;&#x4e00; (s&#xec; sh&#xed; y&#x12b;) &#x2013; forty-one&#xa;42: &#x56db;&#x5341;&#x4e8c; (s&#xec; sh&#xed; &#xe8;r) &#x2013; forty-two&#xa;43: &#x56db;&#x5341;&#x4e09; (s&#xec; sh&#xed; s&#x101;n) &#x2013; forty-three&#xa;44: &#x56db;&#x5341;&#x56db; (s&#xec; sh&#xed; s&#xec;) &#x2013; forty-four&#xa;45: &#x56db;&#x5341;&#x4e94; (s&#xec; sh&#xed; w&#x1d4;) &#x2013; forty-five&#xa;46: &#x56db;&#x5341;&#x516d; (s&#xec; sh&#xed; li&#xf9;) &#x2013; forty-six&#xa;47: &#x56db;&#x5341;&#x4e03; (s&#xec; sh&#xed; q&#x12b;) &#x2013; forty-seven&#xa;48: &#x56db;&#x5341;&#x516b; (s&#xec; sh&#xed; b&#x101;) &#x2013; forty-eight&#xa;49: &#x56db;&#x5341;&#x4e5d; (s&#xec; sh&#xed; ji&#x1d4;) &#x2013; forty-nine&#xa;50: &#x4e94;&#x5341; (w&#x1d4; sh&#xed;) &#x2013; fifty&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane9">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea9">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="21&#x2013;30&#xa;21: &#x4e8c;&#x5341;&#x4e00; (&#xe8;r sh&#xed; y&#x12b;) &#x2013; twenty-one&#xa;22: &#x4e8c;&#x5341;&#x4e8c; (&#xe8;r sh&#xed; &#xe8;r) &#x2013; twenty-two&#xa;23: &#x4e8c;&#x5341;&#x4e09; (&#xe8;r sh&#xed; s&#x101;n) &#x2013; twenty-three&#xa;24: &#x4e8c;&#x5341;&#x56db; (&#xe8;r sh&#xed; s&#xec;) &#x2013; twenty-four&#xa;25: &#x4e8c;&#x5341;&#x4e94; (&#xe8;r sh&#xed; w&#x1d4;) &#x2013; twenty-five&#xa;26: &#x4e8c;&#x5341;&#x516d; (&#xe8;r sh&#xed; li&#xf9;) &#x2013; twenty-six&#xa;27: &#x4e8c;&#x5341;&#x4e03; (&#xe8;r sh&#xed; q&#x12b;) &#x2013; twenty-seven&#xa;28: &#x4e8c;&#x5341;&#x516b; (&#xe8;r sh&#xed; b&#x101;) &#x2013; twenty-eight&#xa;29: &#x4e8c;&#x5341;&#x4e5d; (&#xe8;r sh&#xed; ji&#x1d4;) &#x2013; twenty-nine&#xa;30: &#x4e09;&#x5341; (s&#x101;n sh&#xed;) &#x2013; thirty"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane10">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea10">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;91&#x2013;100&#xa;91: &#x4e5d;&#x5341;&#x4e00; (ji&#x1d4; sh&#xed; y&#x12b;) &#x2013; ninety-one&#xa;92: &#x4e5d;&#x5341;&#x4e8c; (ji&#x1d4; sh&#xed; &#xe8;r) &#x2013; ninety-two&#xa;93: &#x4e5d;&#x5341;&#x4e09; (ji&#x1d4; sh&#xed; s&#x101;n) &#x2013; ninety-three&#xa;94: &#x4e5d;&#x5341;&#x56db; (ji&#x1d4; sh&#xed; s&#xec;) &#x2013; ninety-four&#xa;95: &#x4e5d;&#x5341;&#x4e94; (ji&#x1d4; sh&#xed; w&#x1d4;) &#x2013; ninety-five&#xa;96: &#x4e5d;&#x5341;&#x516d; (ji&#x1d4; sh&#xed; li&#xf9;) &#x2013; ninety-six&#xa;97: &#x4e5d;&#x5341;&#x4e03; (ji&#x1d4; sh&#xed; q&#x12b;) &#x2013; ninety-seven&#xa;98: &#x4e5d;&#x5341;&#x516b; (ji&#x1d4; sh&#xed; b&#x101;) &#x2013; ninety-eight&#xa;99: &#x4e5d;&#x5341;&#x4e5d; (ji&#x1d4; sh&#xed; ji&#x1d4;) &#x2013; ninety-nine&#xa;100: &#x4e00;&#x767e; (y&#x12b; b&#x1ce;i) &#x2013; one hundred&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane11">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea11">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;71&#x2013;80&#xa;71: &#x4e03;&#x5341;&#x4e00; (q&#x12b; sh&#xed; y&#x12b;) &#x2013; seventy-one&#xa;72: &#x4e03;&#x5341;&#x4e8c; (q&#x12b; sh&#xed; &#xe8;r) &#x2013; seventy-two&#xa;73: &#x4e03;&#x5341;&#x4e09; (q&#x12b; sh&#xed; s&#x101;n) &#x2013; seventy-three&#xa;74: &#x4e03;&#x5341;&#x56db; (q&#x12b; sh&#xed; s&#xec;) &#x2013; seventy-four&#xa;75: &#x4e03;&#x5341;&#x4e94; (q&#x12b; sh&#xed; w&#x1d4;) &#x2013; seventy-five&#xa;76: &#x4e03;&#x5341;&#x516d; (q&#x12b; sh&#xed; li&#xf9;) &#x2013; seventy-six&#xa;77: &#x4e03;&#x5341;&#x4e03; (q&#x12b; sh&#xed; q&#x12b;) &#x2013; seventy-seven&#xa;78: &#x4e03;&#x5341;&#x516b; (q&#x12b; sh&#xed; b&#x101;) &#x2013; seventy-eight&#xa;79: &#x4e03;&#x5341;&#x4e5d; (q&#x12b; sh&#xed; ji&#x1d4;) &#x2013; seventy-nine&#xa;80: &#x516b;&#x5341; (b&#x101; sh&#xed;) &#x2013; eighty&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane12">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea12">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;51&#x2013;60&#xa;51: &#x4e94;&#x5341;&#x4e00; (w&#x1d4; sh&#xed; y&#x12b;) &#x2013; fifty-one&#xa;52: &#x4e94;&#x5341;&#x4e8c; (w&#x1d4; sh&#xed; &#xe8;r) &#x2013; fifty-two&#xa;53: &#x4e94;&#x5341;&#x4e09; (w&#x1d4; sh&#xed; s&#x101;n) &#x2013; fifty-three&#xa;54: &#x4e94;&#x5341;&#x56db; (w&#x1d4; sh&#xed; s&#xec;) &#x2013; fifty-four&#xa;55: &#x4e94;&#x5341;&#x4e94; (w&#x1d4; sh&#xed; w&#x1d4;) &#x2013; fifty-five&#xa;56: &#x4e94;&#x5341;&#x516d; (w&#x1d4; sh&#xed; li&#xf9;) &#x2013; fifty-six&#xa;57: &#x4e94;&#x5341;&#x4e03; (w&#x1d4; sh&#xed; q&#x12b;) &#x2013; fifty-seven&#xa;58: &#x4e94;&#x5341;&#x516b; (w&#x1d4; sh&#xed; b&#x101;) &#x2013; fifty-eight&#xa;59: &#x4e94;&#x5341;&#x4e5d; (w&#x1d4; sh&#xed; ji&#x1d4;) &#x2013; fifty-nine&#xa;60: &#x516d;&#x5341; (li&#xf9; sh&#xed;) &#x2013; sixty"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane13">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea13">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;61&#x2013;70&#xa;61: &#x516d;&#x5341;&#x4e00; (li&#xf9; sh&#xed; y&#x12b;) &#x2013; sixty-one&#xa;62: &#x516d;&#x5341;&#x4e8c; (li&#xf9; sh&#xed; &#xe8;r) &#x2013; sixty-two&#xa;63: &#x516d;&#x5341;&#x4e09; (li&#xf9; sh&#xed; s&#x101;n) &#x2013; sixty-three&#xa;64: &#x516d;&#x5341;&#x56db; (li&#xf9; sh&#xed; s&#xec;) &#x2013; sixty-four&#xa;65: &#x516d;&#x5341;&#x4e94; (li&#xf9; sh&#xed; w&#x1d4;) &#x2013; sixty-five&#xa;66: &#x516d;&#x5341;&#x516d; (li&#xf9; sh&#xed; li&#xf9;) &#x2013; sixty-six&#xa;67: &#x516d;&#x5341;&#x4e03; (li&#xf9; sh&#xed; q&#x12b;) &#x2013; sixty-seven&#xa;68: &#x516d;&#x5341;&#x516b; (li&#xf9; sh&#xed; b&#x101;) &#x2013; sixty-eight&#xa;69: &#x516d;&#x5341;&#x4e5d; (li&#xf9; sh&#xed; ji&#x1d4;) &#x2013; sixty-nine&#xa;70: &#x4e03;&#x5341; (q&#x12b; sh&#xed;) &#x2013; seventy&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane14">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea14">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;81&#x2013;90&#xa;81: &#x516b;&#x5341;&#x4e00; (b&#x101; sh&#xed; y&#x12b;) &#x2013; eighty-one&#xa;82: &#x516b;&#x5341;&#x4e8c; (b&#x101; sh&#xed; &#xe8;r) &#x2013; eighty-two&#xa;83: &#x516b;&#x5341;&#x4e09; (b&#x101; sh&#xed; s&#x101;n) &#x2013; eighty-three&#xa;84: &#x516b;&#x5341;&#x56db; (b&#x101; sh&#xed; s&#xec;) &#x2013; eighty-four&#xa;85: &#x516b;&#x5341;&#x4e94; (b&#x101; sh&#xed; w&#x1d4;) &#x2013; eighty-five&#xa;86: &#x516b;&#x5341;&#x516d; (b&#x101; sh&#xed; li&#xf9;) &#x2013; eighty-six&#xa;87: &#x516b;&#x5341;&#x4e03; (b&#x101; sh&#xed; q&#x12b;) &#x2013; eighty-seven&#xa;88: &#x516b;&#x5341;&#x516b; (b&#x101; sh&#xed; b&#x101;) &#x2013; eighty-eight&#xa;89: &#x516b;&#x5341;&#x4e5d; (b&#x101; sh&#xed; ji&#x1d4;) &#x2013; eighty-nine&#xa;90: &#x4e5d;&#x5341; (ji&#x1d4; sh&#xed;) &#x2013; ninety&#xa;"/>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[232, 180]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="takequiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Take Quiz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Serif" size="18" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CHINESE COUNTINGS"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

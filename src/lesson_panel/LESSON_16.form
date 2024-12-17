@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="738" max="-2" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="150" max="-2" attributes="0"/>
+              <EmptySpace pref="962" max="32767" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="1850" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="512" max="32767" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="128" max="-2" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="700" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="14" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="What is Japanese?&#xa;&#xa;Japanese (&#x65e5;&#x672c;&#x8a9e;, Nihongo) is the official language of Japan and is spoken by approximately 125 million people worldwide.&#xa; It is a unique language with no direct relation to Chinese or Korean, though it has borrowed many Chinese characters (kanji) and vocabulary over centuries. Japanese is considered a member of the Japonic language family, &#xa; which is not widely related to any other known languages, making it stand out linguistically.&#xa;Historically, Japanese began to take shape in the 8th century, and its written form evolved from the use of Chinese characters. &#xa;The hiragana and katakana scripts were developed over time to represent the phonetic aspects of the language, with kanji used for more complex, often borrowed, concepts.&#xa;The language is widely spoken in Japan, where it is the native tongue of virtually the entire population.&#xa; Japanese is also spoken by expatriate communities around the world, particularly in countries like Brazil, the United States and Peru, which have significant numbers of Japanese descendants. &#xa;While the language is not widely spoken outside Japan, it is increasingly learned as a foreign language due to Japan&#x2019;s cultural influence in technology, business, and entertainment. &#xa;Within Japan, various regional dialects exist, each with its unique pronunciation, vocabulary, and sometimes even grammar. &#xa;For instance, the Kansai dialect(spoken in Osaka, Kyoto, and Kobe) differs notably from the Tokyo dialect in both tone and expression.&#xa; However, Standard Japanese, based on the Tokyo dialect, is the dominant form used in media, education, and government. &#xa;Japanese is known for its complex system of honorifics, where the language&#x2019;s formality and politeness levels change depending on the social context, the relationship between speakers, and the subject of discussion.&#xa; It also uses a rich writing system that combines hiragana,katakana, and kanji, each serving distinct roles. &#xa;Though Japanese can be challenging for learners, especially due to its writing system and levels of politeness,&#xa; it remains a fascinating and rewarding language to study, especially for those interested in Japan&#x2019;s rich culture, history, and technological advancements.&#xa;&#xa;&#xa; nihongo to wa ?&#xa;&#xa;nihongo ( nihongo &#x3001; nihongo ) wa nihon no kouyougo de ari &#x3001; sekaiju de yaku 1oku2,500man hito ga hanashi te i masu .chuugoku wa &#x3001;&#xa; chuugoku go ya kankoku go to wa chokusetsu kankei no nai dokuji no gengo desu ga &#x3001; nani seiki ni mo watatsu te ooku no kanji ( kanji ) ya goi wa shakuyou shi te ki mashi ta .nihongo wa &#x3001;&#xa; hoka no kichi no gengo to hiroku kanren shi te i nai nichi ryu go zoku no 1in to minasa re te ori &#x3001; gengo teki ni kiwadatsu te i masu . rekishi teki ni &#x3001; nihongo wa 8 seiki ni katachizukura re hajime &#x3001;&#xa; sono kakikotoba wa kanji no shiyou kara hatten shi mashi ta .hiraga na to katakana no moji wa &#x3001; gengo no onsei teki sokumen wa arawasu tame ni jikan wa kake te kaihatsu sa re &#x3001;&#xa; kanji wa yori fukuzatsu de &#x3001; shibashiba shakuyou sa re ta gainen ni shiyou sa re mashi ta . kono gengo wa nihon de hiroku hanasa re te ori &#x3001; jijitsu ue zen hitoguchi no bokoku go to natsu te i masu .nihongo wa &#x3001;&#xa; sekaiju no chuuzai in community &#x3001; tokuni brazil &#x3001; beikoku nado no kuniodoriji de mo hanasa re te i masu peru ni wa kanari no suu no nikkei hito ga i masu .kono gengo wa nihon kokugai de hiroku hanasa re te i mase n ga &#x3001;&#xa; technology &#x3001; business &#x3001; entertainment niokeru nihon no bunka teki eikyou niyori &#x3001; gaikoku go toshite masumasu gakushuu sa re te i masu .nihon kokunai ni wa samazama na chiiki no hougen ga sonzai shi &#x3001; sorezore ni dokuji no hatsuon &#x3001; goi &#x3001; tokiniha bunpou sae ari masu .tatoeba &#x3001;&#xa; kansai hougen ( osaka &#x3001; kyoto &#x3001; koube de hanasa re te iru hougen ) wa &#x3001; toukyou hougen to wa seichou ya hyougen ga ichijirushiku kotonari masu .shikashi &#x3001; toukyou hougen ni motozuku hyoujun nihongo wa &#x3001; media &#x3001; kyoiku &#x3001; seifu de shiyou sa reru shuyou na keishiki desu .nihongo wa &#x3001;&#xa; shakai teki bunmyaku &#x3001; hanashite ma no kankei &#x3001; giron no shudai niyotte gengo no keishiki shou to reigi tadashi sa no level ga henka suru &#x3001; fukuzatsu na keigo taikei de shira re te i masu .mata &#x3001; hiraga na &#x3001; katakana &#x3001; kanji wa kumiawase ta yutaka na shoki taikei wa shiyou shi te ori &#x3001;&#xa; sorezore ga kotonaru yakuwari wa hatashi te i masu . nihongo wa &#x3001; tokuni sono shoki taikei ya reigi tadashi sa no level kara &#x3001;&#xa; gakushuu mono nitotte wa muzukashii mono desu ga &#x3001; tokuni nihon no yutaka na bunka &#x3001; rekishi &#x3001; gijutsu no shinpo ni kyoumi no aru hito nitotte wa &#x3001; miryoku teki de yarigai no aru gengo de aru koto ni kawari wa ari mase n ."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="takequiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Take Quiz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

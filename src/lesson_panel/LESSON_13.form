@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="866" max="32767" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="150" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="834" max="-2" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="1850" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="540" max="32767" attributes="0"/>
+              <Component id="takequiz" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="100" max="-2" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="700" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Serif" size="16" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="BASIC CHINESE GREETINGS:&#xa;General Greetings:&#xa;1.&#x9;&#x4f60;&#x597d; (N&#x1d0; h&#x1ce;o) - Hello.&#xa;2.&#x9;&#x60a8;&#x597d; (N&#xed;n h&#x1ce;o) - Hello (polite/respectful form).&#xa;3.&#x9;&#x65e9;&#x4e0a;&#x597d; (Z&#x1ce;oshang h&#x1ce;o) - Good morning.&#xa;4.&#x9;&#x4e0a;&#x5348;&#x597d; (Sh&#xe0;ngw&#x1d4; h&#x1ce;o) - Good morning (formal).&#xa;5.&#x9;&#x4e2d;&#x5348;&#x597d; (Zh&#x14d;ngw&#x1d4; h&#x1ce;o) - Good afternoon.&#xa;6.&#x9;&#x4e0b;&#x5348;&#x597d; (Xi&#xe0;w&#x1d4; h&#x1ce;o) - Good afternoon.&#xa;7.&#x9;&#x665a;&#x4e0a;&#x597d; (W&#x1ce;nsh&#xe0;ng h&#x1ce;o) - Good evening.&#xa;8.&#x9;&#x665a;&#x5b89; (W&#x1ce;n&#x2019;&#x101;n) - Good night.&#xa;9.&#x9;&#x563f; (H&#x113;i) - Hey (informal greeting).&#xa;10.&#x9;&#x5582; (W&#xe8;i) - Hello (used on the phone).&#xa;&#xa;Casual or Friendly Greetings:&#xa;&#xa;&#xa;11.&#x9;&#x4f60;&#x600e;&#x4e48;&#x6837;&#xff1f;(N&#x1d0; z&#x11b;nmey&#xe0;ng?) - How are you?&#xa;12.&#x9;&#x6700;&#x8fd1;&#x600e;&#x4e48;&#x6837;&#xff1f;(Zu&#xec;j&#xec;n z&#x11b;nmey&#xe0;ng?) - How have you been recently?&#xa;13.&#x9;&#x5403;&#x4e86;&#x5417;&#xff1f;(Ch&#x12b; le ma?) - Have you eaten? (common casual greeting).&#xa;14.&#x9;&#x597d;&#x4e45;&#x4e0d;&#x89c1; (H&#x1ce;oji&#x1d4; b&#xfa;ji&#xe0;n) - Long time no see.&#xa;15.&#x9;&#x53bb;&#x54ea;&#x513f;&#xff1f;(Q&#xf9; n&#x1ce;r?) - Where are you going? (used in passing).&#xa;&#xa;&#xa;Specific Context Greetings:&#xa;16.&#x9;&#x6b22;&#x8fce; (Hu&#x101;ny&#xed;ng) - Welcome.&#xa;17.&#x9;&#x8f9b;&#x82e6;&#x4e86; (X&#x12b;nk&#x1d4; le) - Thank you for your hard work.&#xa;18.&#x9;&#x65b0;&#x5e74;&#x5feb;&#x4e50; (X&#x12b;nni&#xe1;n ku&#xe0;il&#xe8;) - Happy New Year.&#xa;19.&#x9;&#x751f;&#x65e5;&#x5feb;&#x4e50; (Sh&#x113;ngr&#xec; ku&#xe0;il&#xe8;) - Happy Birthday.&#xa;20.&#x9;&#x795d;&#x4f60;&#x597d;&#x8fd0; (Zh&#xf9; n&#x1d0; h&#x1ce;oy&#xf9;n) - Wishing you good luck.&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="takequiz">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Take Quiz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="takequizActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
